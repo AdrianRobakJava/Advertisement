@@ -1,8 +1,4 @@
-/*
-*Program łaczy zadania 7.1, 7.2 i 7.3.
-*/
 
-package pl.alx.kpij.Ogloszenia;
 
 import java.io.File;
 import java.io.FileNotFoundException;
