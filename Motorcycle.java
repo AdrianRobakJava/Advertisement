@@ -1,4 +1,4 @@
-package pl.alx.kpij.Ogloszenia;
+
 
 public class Motorcycle extends Car{
 	
